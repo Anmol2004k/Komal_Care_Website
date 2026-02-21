@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy — Your Brand</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --cream: #faf6f0;
+      --warm-white: #fff9f3;
+      --ink: #1a1410;
+      --muted: #6b5f54;
+      --accent: #c9622f;
+      --accent-light: #f5ddd0;
+      --border: #e8ddd3;
+      --section-gap: 4rem;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background-color: var(--cream);
+      color: var(--ink);
+      font-size: 16px;
+      line-height: 1.75;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--ink);
+      color: var(--cream);
+      padding: 3.5rem 2rem 2.5rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 80% 60% at 50% 120%, #c9622f33, transparent);
+    }
+    .header-eyebrow {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1rem;
+      position: relative;
+    }
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.4rem, 5vw, 4rem);
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      position: relative;
+    }
+    header h1 em {
+      font-style: italic;
+      color: #e8a07e;
+    }
+    .header-meta {
+      margin-top: 1.5rem;
+      font-size: 0.85rem;
+      color: #9e8f84;
+      position: relative;
+    }
+
+    /* ── LAYOUT ── */
+    .page-wrap {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 3rem 2rem 6rem;
+    }
+
+    /* ── TOC ── */
+    .toc-card {
+      background: var(--warm-white);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem 2.4rem;
+      margin-bottom: var(--section-gap);
+      position: relative;
+    }
+    .toc-card::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 16px; bottom: 16px;
+      width: 3px;
+      background: var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .toc-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+    .toc-list {
+      list-style: none;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.4rem 2rem;
+    }
+    .toc-list li { counter-increment: toc; }
+    .toc-list a {
+      color: var(--ink);
+      text-decoration: none;
+      font-size: 0.9rem;
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      transition: color 0.2s;
+    }
+    .toc-list a::before {
+      content: counter(toc, decimal-leading-zero);
+      font-size: 0.7rem;
+      color: var(--accent);
+      font-weight: 500;
+      flex-shrink: 0;
+    }
+    .toc-list a:hover { color: var(--accent); }
+
+    @media (max-width: 560px) {
+      .toc-list { grid-template-columns: 1fr; }
+    }
+
+    /* ── INTRO PARAGRAPH ── */
+    .intro {
+      font-size: 1.05rem;
+      color: var(--muted);
+      margin-bottom: var(--section-gap);
+      padding-bottom: var(--section-gap);
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* ── SECTIONS ── */
+    .policy-section {
+      margin-bottom: var(--section-gap);
+      padding-bottom: var(--section-gap);
+      border-bottom: 1px solid var(--border);
+      animation: fadeUp 0.5s ease both;
+    }
+    .policy-section:last-of-type { border-bottom: none; }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .section-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 1.2rem;
+      margin-bottom: 1.6rem;
+    }
+    .section-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 10px;
+      background: var(--accent-light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .section-num {
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+    }
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.45rem;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    p { margin-bottom: 1rem; color: #3d332b; }
+    p:last-child { margin-bottom: 0; }
+
+    ul.policy-list {
+      list-style: none;
+      margin: 1rem 0;
+    }
+    ul.policy-list li {
+      padding: 0.55rem 0 0.55rem 1.6rem;
+      position: relative;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.95rem;
+      color: #3d332b;
+    }
+    ul.policy-list li:last-child { border-bottom: none; }
+    ul.policy-list li::before {
+      content: '→';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-weight: 500;
+    }
+
+    /* ── HIGHLIGHT BOX ── */
+    .highlight-box {
+      background: var(--accent-light);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 8px 8px 0;
+      padding: 1.1rem 1.4rem;
+      margin: 1.2rem 0;
+      font-size: 0.93rem;
+      color: #5c3a22;
+    }
+    .highlight-box strong { color: var(--accent); }
+
+    /* ── TAG PILLS ── */
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 1rem 0;
+    }
+    .pill {
+      background: var(--warm-white);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      padding: 0.3rem 0.9rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    /* ── RIGHTS GRID ── */
+    .rights-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin: 1.2rem 0;
+    }
+    .right-card {
+      background: var(--warm-white);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.1rem 1.2rem;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .right-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+    .right-card-icon { font-size: 1.4rem; margin-bottom: 0.5rem; }
+    .right-card-title { font-weight: 500; font-size: 0.92rem; margin-bottom: 0.25rem; }
+    .right-card-desc { font-size: 0.82rem; color: var(--muted); }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--ink);
+      color: #9e8f84;
+      text-align: center;
+      padding: 2.5rem 2rem;
+      font-size: 0.85rem;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer strong { color: var(--cream); }
+
+    /* ── BACK TO TOP ── */
+    .back-top {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--accent);
+      color: white;
+      border: none;
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      font-size: 1.1rem;
+      cursor: pointer;
+      box-shadow: 0 4px 16px #c9622f44;
+      transition: transform 0.2s, opacity 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+    .back-top:hover { transform: translateY(-3px); }
+  </style>
+</head>
+<body>
+
+<header>
+  <p class="header-eyebrow">Legal &amp; Trust</p>
+  <h1>Privacy <em>Policy</em></h1>
+  <p class="header-meta">Last Updated: February 21, 2025 &nbsp;·&nbsp; Effective Immediately</p>
+</header>
+
+<main class="page-wrap">
+
+  <!-- Intro -->
+  <p class="intro">
+    We believe privacy is a right, not a checkbox. This policy explains — in plain language — exactly what personal
+    information we collect when you shop with us, how we use it to personalise your experience, and the choices you
+    always have over your own data. Please read it whenever you have a moment; it matters.
+  </p>
+
+  <!-- TOC -->
+  <nav class="toc-card" aria-label="Table of Contents">
+    <p class="toc-label">Contents at a glance</p>
+    <ol class="toc-list" style="counter-reset: toc;">
+      <li><a href="#s1">Information We Collect</a></li>
+      <li><a href="#s2">Flavor &amp; Scent Preferences</a></li>
+      <li><a href="#s3">Screen Vibes &amp; Usage Data</a></li>
+      <li><a href="#s4">Third-Party Sharing</a></li>
+      <li><a href="#s5">Your Rights</a></li>
+      <li><a href="#s6">Data Security</a></li>
+      <li><a href="#s7">Cookies</a></li>
+      <li><a href="#s8">Contact Us</a></li>
+    </ol>
+  </nav>
+
+  <!-- Section 1 -->
+  <section class="policy-section" id="s1">
+    <div class="section-header">
+      <div class="section-icon">📋</div>
+      <div>
+        <p class="section-num">Section 01</p>
+        <h2 class="section-title">Information We Collect</h2>
+      </div>
+    </div>
+    <p>When you create an account, place an order, or interact with our store, we collect personal data that is strictly necessary to serve you well. Here is precisely what that includes:</p>
+    <ul class="policy-list">
+      <li><strong>Identity Information</strong> — Your full name and display name used during checkout or account creation.</li>
+      <li><strong>Contact Details</strong> — Email address, phone number, and shipping/billing address.</li>
+      <li><strong>Payment Information</strong> — Card details and transaction records processed securely through our payment gateway. We do not store raw card numbers on our servers.</li>
+      <li><strong>Order History</strong> — Products purchased, quantities, dates, and delivery status.</li>
+      <li><strong>Account Preferences</strong> — Saved addresses, wishlist items, and communication preferences.</li>
+      <li><strong>Device &amp; Technical Data</strong> — IP address, browser type, operating system, and referring URLs collected automatically when you visit our site.</li>
+    </ul>
+    <p>We collect only what we genuinely need. We do not collect sensitive personal data such as national ID numbers, biometric data, or health records.</p>
+  </section>
+
+  <!-- Section 2 -->
+  <section class="policy-section" id="s2">
+    <div class="section-header">
+      <div class="section-icon">🌸</div>
+      <div>
+        <p class="section-num">Section 02</p>
+        <h2 class="section-title">Flavor &amp; Scent Preferences</h2>
+      </div>
+    </div>
+    <p>
+      Our store is built around personalisation. When you browse, select, or rate products by flavour or scent
+      (for example, choosing "citrus burst" hand cleanser over "oud &amp; sandalwood"), we remember those choices.
+    </p>
+    <div class="highlight-box">
+      <strong>Why we store this:</strong> Your preference data is used exclusively to surface relevant recommendations,
+      personalise your homepage, and improve future product suggestions. It is never sold to advertisers or used for
+      profiling outside our platform.
+    </div>
+    <p>The data we store includes:</p>
+    <ul class="policy-list">
+      <li>Flavour/scent categories you have clicked on or shortlisted</li>
+      <li>Products you have rated, reviewed, or added to a wishlist</li>
+      <li>Filters and sorting preferences applied during browsing sessions</li>
+    </ul>
+    <p>You can reset or delete your flavour profile at any time from your <strong>Account → Preferences</strong> page.</p>
+  </section>
+
+  <!-- Section 3 -->
+  <section class="policy-section" id="s3">
+    <div class="section-header">
+      <div class="section-icon">✨</div>
+      <div>
+        <p class="section-num">Section 03</p>
+        <h2 class="section-title">Screen Vibes &amp; Usage Data</h2>
+      </div>
+    </div>
+    <p>
+      Our website features an interactive <em>Screen Vibes</em> experience — ambient animations and haptic-style
+      feedback that respond to how you engage with the page. To deliver this, we collect limited usage data.
+    </p>
+    <div class="highlight-box">
+      <strong>What is tracked:</strong> Scroll depth, click patterns, time spent on product pages, and — with your
+      device's permission — haptic feedback responses if your browser supports the Vibration API. This data helps us
+      calibrate the visual and tactile experience to your device's capabilities.
+    </div>
+    <p>Usage data collected through Screen Vibes includes:</p>
+    <ul class="policy-list">
+      <li>Interaction events (clicks, taps, hovers) used for animation triggers</li>
+      <li>Device performance signals (screen resolution, refresh rate, motion-preference settings)</li>
+      <li>Session duration and page engagement metrics</li>
+    </ul>
+    <p>
+      If you prefer a reduced-motion experience, enable <strong>"Reduce Motion"</strong> in your OS accessibility
+      settings — our site respects the <code>prefers-reduced-motion</code> media query and will disable all kinetic effects automatically.
+    </p>
+  </section>
+
+  <!-- Section 4 -->
+  <section class="policy-section" id="s4">
+    <div class="section-header">
+      <div class="section-icon">🤝</div>
+      <div>
+        <p class="section-num">Section 04</p>
+        <h2 class="section-title">Third-Party Sharing</h2>
+      </div>
+    </div>
+    <p>
+      We do not sell your personal information. However, to operate our store, we share limited data with trusted
+      service providers under strict contractual obligations. These partners are:
+    </p>
+
+    <ul class="policy-list">
+      <li>
+        <strong>Delivery &amp; Logistics Partners</strong> — Your name, delivery address, and order details are
+        shared with our courier and fulfilment partners solely to ship your order. They are prohibited from using
+        this data for any other purpose.
+      </li>
+      <li>
+        <strong>Payment Gateways</strong> — We use PCI-DSS compliant payment processors. Your payment data is
+        transmitted directly to them via encrypted channels; we never handle raw card numbers.
+      </li>
+      <li>
+        <strong>Analytics Providers</strong> — Anonymised, aggregated usage data may be shared with analytics
+        tools to help us understand site performance. This data cannot be used to identify you individually.
+      </li>
+      <li>
+        <strong>Customer Support Tools</strong> — If you raise a support ticket, relevant account details may be
+        accessed through our helpdesk platform.
+      </li>
+    </ul>
+
+    <div class="highlight-box">
+      We require all third parties to maintain confidentiality, apply adequate security measures, and process your
+      data only for specified, legitimate purposes consistent with this policy.
+    </div>
+  </section>
+
+  <!-- Section 5 -->
+  <section class="policy-section" id="s5">
+    <div class="section-header">
+      <div class="section-icon">⚖️</div>
+      <div>
+        <p class="section-num">Section 05</p>
+        <h2 class="section-title">Your Rights</h2>
+      </div>
+    </div>
+    <p>
+      Whether you are covered by GDPR (EU/UK), India's Digital Personal Data Protection Act (DPDPA), or other
+      applicable privacy laws, you have meaningful rights over your personal data:
+    </p>
+    <div class="rights-grid">
+      <div class="right-card">
+        <div class="right-card-icon">👁️</div>
+        <div class="right-card-title">Access</div>
+        <div class="right-card-desc">Request a copy of all personal data we hold about you.</div>
+      </div>
+      <div class="right-card">
+        <div class="right-card-icon">✏️</div>
+        <div class="right-card-title">Correction</div>
+        <div class="right-card-desc">Update inaccurate or incomplete data at any time.</div>
+      </div>
+      <div class="right-card">
+        <div class="right-card-icon">🗑️</div>
+        <div class="right-card-title">Deletion</div>
+        <div class="right-card-desc">Ask us to erase your data (subject to legal retention obligations).</div>
+      </div>
+      <div class="right-card">
+        <div class="right-card-icon">🚫</div>
+        <div class="right-card-title">Objection</div>
+        <div class="right-card-desc">Opt out of marketing communications or data processing for profiling.</div>
+      </div>
+      <div class="right-card">
+        <div class="right-card-icon">📦</div>
+        <div class="right-card-title">Portability</div>
+        <div class="right-card-desc">Receive your data in a machine-readable format to transfer elsewhere.</div>
+      </div>
+      <div class="right-card">
+        <div class="right-card-icon">⏸️</div>
+        <div class="right-card-title">Restriction</div>
+        <div class="right-card-desc">Request we limit how we process your data in certain circumstances.</div>
+      </div>
+    </div>
+    <p style="margin-top: 1.2rem;">
+      To exercise any of these rights, email us at <a href="mailto:privacy@yourbrand.com" style="color: var(--accent); text-decoration: none; font-weight: 500;">privacy@yourbrand.com</a>.
+      We will respond within <strong>30 days</strong> (or sooner where required by law). Identity verification may
+      be required before processing sensitive requests.
+    </p>
+  </section>
+
+  <!-- Section 6 -->
+  <section class="policy-section" id="s6">
+    <div class="section-header">
+      <div class="section-icon">🔒</div>
+      <div>
+        <p class="section-num">Section 06</p>
+        <h2 class="section-title">Data Security</h2>
+      </div>
+    </div>
+    <p>
+      Protecting your data is a core responsibility. We employ the following technical and organisational measures:
+    </p>
+    <ul class="policy-list">
+      <li><strong>SSL/TLS Encryption</strong> — All data transmitted between your browser and our servers is encrypted using industry-standard TLS 1.2/1.3 protocols. Look for the padlock icon in your browser's address bar.</li>
+      <li><strong>Payment Security</strong> — Card transactions are handled by PCI-DSS Level 1 certified payment gateways. We tokenise payment methods so card details are never stored on our infrastructure.</li>
+      <li><strong>Access Controls</strong> — Internal access to personal data is restricted on a strict need-to-know basis with role-based permissions and audit logging.</li>
+      <li><strong>Data Minimisation</strong> — We retain personal data only as long as necessary for the purposes described in this policy, or as required by applicable law.</li>
+      <li><strong>Breach Response</strong> — In the event of a data breach that poses risk to your rights, we will notify you and relevant supervisory authorities within the timeframes required by law.</li>
+    </ul>
+    <div class="highlight-box">
+      While we take every reasonable precaution, no online transmission is 100% secure. Please use a strong,
+      unique password for your account and contact us immediately if you suspect any unauthorised access.
+    </div>
+  </section>
+
+  <!-- Section 7 -->
+  <section class="policy-section" id="s7">
+    <div class="section-header">
+      <div class="section-icon">🍪</div>
+      <div>
+        <p class="section-num">Section 07</p>
+        <h2 class="section-title">Cookies</h2>
+      </div>
+    </div>
+    <p>
+      We use cookies — small text files stored in your browser — to make our site work properly and to improve your
+      experience. Here is exactly what we use them for:
+    </p>
+    <ul class="policy-list">
+      <li><strong>Essential Cookies</strong> — Required for the site to function. These remember your shopping cart (including that hand cleanser you added!), keep you logged in during a session, and enable checkout security. These cannot be disabled.</li>
+      <li><strong>Preference Cookies</strong> — Store your language, region, and flavour preference settings so we can personalise your next visit without starting from scratch.</li>
+      <li><strong>Analytics Cookies</strong> — Help us understand how visitors navigate the site (which pages they visit, where they drop off) so we can improve your experience. Data is aggregated and anonymised.</li>
+      <li><strong>Marketing Cookies</strong> — Used only with your explicit consent to deliver relevant ads on partner platforms. You can withdraw consent at any time.</li>
+    </ul>
+
+    <p><strong>Cookie Categories &amp; Retention:</strong></p>
+    <div class="pill-row">
+      <span class="pill">Essential · Session</span>
+      <span class="pill">Preference · 1 Year</span>
+      <span class="pill">Analytics · 13 Months</span>
+      <span class="pill">Marketing · 90 Days</span>
+    </div>
+
+    <p>
+      You can manage or withdraw cookie consent at any time through our <strong>Cookie Settings</strong> banner
+      (accessible via the footer link) or by adjusting your browser's privacy settings.
+    </p>
+  </section>
+
+  <!-- Section 8 -->
+  <section class="policy-section" id="s8">
+    <div class="section-header">
+      <div class="section-icon">💬</div>
+      <div>
+        <p class="section-num">Section 08</p>
+        <h2 class="section-title">Contact Us</h2>
+      </div>
+    </div>
+    <p>
+      If you have any questions about this policy, wish to exercise your data rights, or want to report a privacy
+      concern, please reach out:
+    </p>
+    <ul class="policy-list">
+      <li><strong>Email</strong> — <a href="mailto:privacy@yourbrand.com" style="color: var(--accent);">privacy@yourbrand.com</a></li>
+      <li><strong>Postal Address</strong> — Data Privacy Officer, Your Brand Pvt. Ltd., [Your Address], India</li>
+      <li><strong>Response Time</strong> — We aim to acknowledge all enquiries within 2 business days.</li>
+    </ul>
+    <p>
+      If you are not satisfied with our response, you have the right to lodge a complaint with your applicable data
+      protection authority — for India, this is the <strong>Data Protection Board of India</strong> under the DPDPA.
+    </p>
+  </section>
+
+</main>
+
+<footer>
+  <p><strong>Your Brand</strong> &nbsp;·&nbsp; Privacy Policy &nbsp;·&nbsp; Version 1.0</p>
+  <p style="margin-top: 0.5rem;">
+    Questions? <a href="mailto:privacy@yourbrand.com">privacy@yourbrand.com</a>
+    &nbsp;·&nbsp; <a href="#">Cookie Settings</a>
+    &nbsp;·&nbsp; <a href="#">Terms of Service</a>
+  </p>
+  <p style="margin-top: 1rem; font-size: 0.75rem; opacity: 0.6;">
+    © 2025 Your Brand Pvt. Ltd. All rights reserved. This policy is subject to updates; changes will be posted on this page with a revised effective date.
+  </p>
+</footer>
+
+<a href="#" class="back-top" aria-label="Back to top">↑</a>
+
+</body>
+</html>
