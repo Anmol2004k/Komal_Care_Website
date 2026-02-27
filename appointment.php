@@ -378,12 +378,8 @@
 		<button class="scroltop" type="button"><i class="fas fa-arrow-up"></i></button>
 
 	</div>
-	<!-- JAVASCRIPT FILES ========================================= -->
-	<script src="js/global.min.js"></script>
-	<script src="vendor/popper/popper.js"></script>
-	<script src="vendor/tempus-dominus/js/tempus-dominus.min.js"></script>
-	<script src="js/dz.ajax.js"></script>
-	<script src="js/custom.js"></script>
+	<?php include('./include/script.php'); ?>
+	 
 </body>
 
 <!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/appointment.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:15 GMT -->

@@ -2198,20 +2198,8 @@
 		<button class="scroltop" type="button"><i class="fas fa-arrow-up"></i></button>
 
 	</div>
-	<!-- JAVASCRIPT FILES ========================================= -->
-	<script src="js/global.min.js"></script>
-	<script src="vendor/popper/popper.js"></script>
-	<script src="vendor/tempus-dominus/js/tempus-dominus.min.js"></script>
-	<script src="vendor/swiper/swiper-bundle.min.js"></script>
-	<script src="vendor/imagesloaded/imagesloaded.js"></script>
-	<script src="vendor/masonry/isotope.pkgd.min.js"></script>
-	<script src="vendor/twentytwenty/js/jquery.event.move.js"></script>
-	<script src="vendor/twentytwenty/js/jquery.twentytwenty.js"></script>
-	<script src="vendor/wnumb/wNumb.js"></script>
-	<script src="vendor/countdown/jquery.countdown.js"></script>
-	<script src="js/dz.carousel.js"></script>
-	<script src="js/dz.ajax.js"></script>
-	<script src="js/custom.js"></script>
+	<?php include('./include/script.php'); ?>
+	 
 </body>
 
 <!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:07 GMT -->
