@@ -95,7 +95,7 @@
 						</div>
 						
 						<ul class="nav navbar-nav">
-	<li>
+	  <li>
 		<a href="index.php"><span>Home</span></a>
 	</li>
 	<li class="sub-menu-down">
