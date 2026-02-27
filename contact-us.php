@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" data-theme-color="skin-3">
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:31 GMT -->
+<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:31 GMT -->
 <head>
 
 	<!-- Title -->
@@ -30,7 +30,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	
 	<!-- CANONICAL URL -->
-	<link rel="canonical" href="https://clinicmaster.dexignzone.com/xhtml/contact-us.html">
+	<link rel="canonical" href="https://clinicmaster.dexignzone.com/xhtml/contact-us.php">
 	
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -71,10 +71,10 @@
 					
 					<!-- Website Logo -->
 					<div class="logo-header logo-light">
-						<a href="index.html"><img src="images/Komal_care-logo.jpeg" alt="logo"></a>
+						<a href="index.php"><img src="images/Komal_care-logo.jpeg" alt="logo"></a>
 					</div>
 					<div class="logo-header logo-dark">
-						<a href="index.html"><img src="images/Komal_care-logo.jpeg" alt="logo"></a>
+						<a href="index.php"><img src="images/Komal_care-logo.jpeg" alt="logo"></a>
 					</div>
 					
 					<!-- Nav Toggle Button -->
@@ -88,67 +88,67 @@
 					<div class="menu-close fade-overlay"></div>
 					<div class="header-nav w3menu w3menu-start mo-left" id="W3Menu">
 						<div class="logo-header logo-dark">
-							<a href="index.html"><img src="images/Komal_care-logo.jpeg" alt="logo"></a>
+							<a href="index.php"><img src="images/Komal_care-logo.jpeg" alt="logo"></a>
 						</div>
 						
 						<ul class="nav navbar-nav">
 	<li>
-		<a href="index.html"><span>Home</span></a>
+		<a href="index.php"><span>Home</span></a>
 	</li>
 	<li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Shop</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="shop.html">Shop</a></li>
-			<li><a href="shop-details.html">Shop Details</a></li>
+			<li><a href="shop.php">Shop</a></li>
+			<li><a href="shop-details.php">Shop Details</a></li>
 		</ul>
 	</li>
 	<li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Pages</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="about-us.html">About Us</a></li>
-			<li><a href="about-us-2.html">About Us 2</a></li>
-			<li><a href="appointment.html">Appointment</a></li>
-			<!-- <li><a href="pricing-table.html">Pricing Table</a></li> -->
-			<!-- <li><a href="testimonial.html">Testimonial</a></li> -->
-			<li><a href="faqs.html">Faqs</a></li>
-			<li><a href="error-404.html">Error 404</a></li>
+			<li><a href="about-us.php">About Us</a></li>
+			<li><a href="about-us-2.php">About Us 2</a></li>
+			<li><a href="appointment.php">Appointment</a></li>
+			<!-- <li><a href="pricing-table.php">Pricing Table</a></li> -->
+			<!-- <li><a href="testimonial.php">Testimonial</a></li> -->
+			<li><a href="faqs.php">Faqs</a></li>
+			<li><a href="error-404.php">Error 404</a></li>
 		</ul>
 	</li>
 	<!-- <li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Team</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="team.html">Team</a></li>
-			<li><a href="team-detail.html">Team Detail</a></li>
+			<li><a href="team.php">Team</a></li>
+			<li><a href="team-detail.php">Team Detail</a></li>
 		</ul>
 	</li>
 	<li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Services</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="services.html">Services</a></li>
-			<li><a href="service-detail.html">Service Detail</a></li>
-			<li><a href="service-detail-2.html">Service Detail 2</a></li>
+			<li><a href="services.php">Services</a></li>
+			<li><a href="service-detail.php">Service Detail</a></li>
+			<li><a href="service-detail-2.php">Service Detail 2</a></li>
 		</ul>
 	</li>
 	<li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Shop</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="shop.html">Shop</a></li>
-			<li><a href="shop-details.html">Shop Details</a></li>
+			<li><a href="shop.php">Shop</a></li>
+			<li><a href="shop-details.php">Shop Details</a></li>
 		</ul>
 	</li>
 	<li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Blogs</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="blog-grid.html">Blog Grid</a></li>
-			<li><a href="blog-list-sidebar.html">Blog List Sidebar</a></li>
-			<li><a href="blog-details.html">Blog Details</a></li>
+			<li><a href="blog-grid.php">Blog Grid</a></li>
+			<li><a href="blog-list-sidebar.php">Blog List Sidebar</a></li>
+			<li><a href="blog-details.php">Blog Details</a></li>
 		</ul>
 	</li> -->
 	<li class="sub-menu-down">
 		<a href="javascript:void(0);"><span>Contact Us</span> <i class="fas fa-chevron-down tabindex"></i></a>
 		<ul class="sub-menu">						
-			<li><a href="contact-us.html">Contact Us</a></li>
-			<li><a href="contact-us-2.html">Contact Us 2</a></li>
+			<li><a href="contact-us.php">Contact Us</a></li>
+			<li><a href="contact-us-2.php">Contact Us 2</a></li>
 		</ul>
 	</li>
 </ul>
@@ -201,7 +201,7 @@
 									</div>
 								</li>
 								<li class="nav-item item-btn">
-									<a href="appointment.html" class="btn btn-primary btn-hover1">
+									<a href="appointment.php" class="btn btn-primary btn-hover1">
 										Appointment
 									</a>
 								</li>
@@ -220,7 +220,7 @@
 	<div class="offcanvas-body">
 		<div class="widget">
 			<div class="sidebar-header m-b20">
-				<a href="index.html"><img src="images/logo.svg" alt="/"></a>
+				<a href="index.php"><img src="images/logo.svg" alt="/"></a>
 			</div>
 			<p>ClinicMaster is a modern and responsive Bootstrap HTML template designed for health and medical websites. Ideal for clinics, hospitals, and healthcare professionals seeking a professional online presence with an elegant and user-friendly design.</p>
 		</div>
@@ -307,7 +307,7 @@
 								<img src="images/shop/img1.webp" alt="">
 							</div>
 							<div class="cart-content">
-								<h3 class="title"><a href="shop-details.html">Herbal beauty</a></h3>
+								<h3 class="title"><a href="shop-details.php">Herbal beauty</a></h3>
 								<div class="d-flex align-items-center">
 									<div class="btn-quantity quantity-sm style-2 me-3">
 										<input type="text" value="1" class="quantity-input">
@@ -326,7 +326,7 @@
 								<img src="images/shop/img2.webp" alt="">
 							</div>
 							<div class="cart-content">
-								<h3 class="title"><a href="shop-details.html">Green beauty</a></h3>
+								<h3 class="title"><a href="shop-details.php">Green beauty</a></h3>
 								<div class="d-flex align-items-center">
 									<div class="btn-quantity quantity-sm style-2 me-3">
 										<input type="text" value="1" class="quantity-input">
@@ -345,7 +345,7 @@
 								<img src="images/shop/img4.webp" alt="">
 							</div>
 							<div class="cart-content">
-								<h3 class="title"><a href="shop-details.html">Sun beauty</a></h3>
+								<h3 class="title"><a href="shop-details.php">Sun beauty</a></h3>
 								<div class="d-flex align-items-center">
 									<div class="btn-quantity quantity-sm style-2 me-3">
 										<input type="text" value="1" class="quantity-input">
@@ -364,8 +364,8 @@
 					<h5 class="mb-0">300.00$</h5>
 				</div>
 				<div class="mt-auto text-center">
-					<a href="https://clinicmaster.dexignzone.com/xhtml/medical/error-404.html" class="btn btn-primary btn-hover1 mx-1">Checkout</a>
-					<a href="https://clinicmaster.dexignzone.com/xhtml/medical/error-404.html" class="btn btn-secondary btn-hover1 mx-1">View Cart</a>	
+					<a href="https://clinicmaster.dexignzone.com/xhtml/medical/error-404.php" class="btn btn-primary btn-hover1 mx-1">Checkout</a>
+					<a href="https://clinicmaster.dexignzone.com/xhtml/medical/error-404.php" class="btn btn-secondary btn-hover1 mx-1">View Cart</a>	
 				</div>	
 			</div>	
 		</div>
@@ -384,7 +384,7 @@
 				<h1 class="wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.8s">Contact Us</h1>
 				<nav aria-label="breadcrumb" class="breadcrumb-row wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
 					<ul class="breadcrumb">
-						<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+						<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 						<li class="breadcrumb-item">Contact Us</li>
 					</ul>
 				</nav>
@@ -578,15 +578,15 @@
 					<div class="row align-items-center">
 						<div class="col-lg-4 col-md-5 text-center text-md-start wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.8s">
 							<div class="footer-logo logo-white">
-								<a href="index.html"><img src="images/Komal_care-logo.jpeg" alt=""></a> 
+								<a href="index.php"><img src="images/Komal_care-logo.jpeg" alt=""></a> 
 							</div>
 						</div>
 						<div class="col-lg-8 col-md-7 text-center text-md-end wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
 							<div class="m-b25">
-								<a href="contact-us.html" class="btn btn-lg btn-outline-white btn-hover1">
+								<a href="contact-us.php" class="btn btn-lg btn-outline-white btn-hover1">
 									Contact Us
 								</a>
-								<a href="appointment.html" class="btn btn-lg btn-white text-primary btn-hover1 m-l20">
+								<a href="appointment.php" class="btn btn-lg btn-white text-primary btn-hover1 m-l20">
 									Appointment
 								</a>
 							</div>
@@ -625,11 +625,11 @@
 								<div class="widget widget_services">
 									<h2 class="footer-title">Our Services </h2>
 									<ul class="list-hover1">
-										<li><a href="service-detail.html"><span>Emergency Care</span></a></li>
-										<li><a href="service-detail.html"><span>Operation Theater</span></a></li>
-										<li><a href="service-detail.html"><span>Medical Checkup</span></a></li>
-										<li><a href="service-detail.html"><span>Diagnostic Center</span></a></li>
-										<li><a href="service-detail.html"><span>Outdoor Checkup</span></a></li>
+										<li><a href="service-detail.php"><span>Emergency Care</span></a></li>
+										<li><a href="service-detail.php"><span>Operation Theater</span></a></li>
+										<li><a href="service-detail.php"><span>Medical Checkup</span></a></li>
+										<li><a href="service-detail.php"><span>Diagnostic Center</span></a></li>
+										<li><a href="service-detail.php"><span>Outdoor Checkup</span></a></li>
 									</ul>   
 								</div>
 							</div>
@@ -639,8 +639,8 @@
 									<ul class="list-hover1">
 										<li><a href="javascript:void(0);"><span>Privacy Policy</span></a></li>
 										<li><a href="javascript:void(0);"><span>Terms & Conditions</span></a></li>
-										<li><a href="contact-us.html"><span>Contact Us</span></a></li>
-										<li><a href="blog-grid.html"><span>Latest News</span></a></li>
+										<li><a href="contact-us.php"><span>Contact Us</span></a></li>
+										<li><a href="blog-grid.php"><span>Latest News</span></a></li>
 										<li><a href="javascript:void(0);"><span>Our Sitemap</span></a></li>
 									</ul>   
 								</div>
@@ -661,11 +661,11 @@
 								<div class="widget widget_services">
 									<h2 class="footer-title">Quick Links</h2>
 									<ul class="list-hover1">
-										<li><a href="about-us.html"><span>About Us</span></a></li>
-										<li><a href="services.html"><span>Our Services</span></a></li>
-										<li><a href="team.html"><span>Our Team</span></a></li>
-										<li><a href="appointment.html"><span>Appointments</span></a></li>
-										<li><a href="contact-us.html"><span>Contact Us</span></a></li>
+										<li><a href="about-us.php"><span>About Us</span></a></li>
+										<li><a href="services.php"><span>Our Services</span></a></li>
+										<li><a href="team.php"><span>Our Team</span></a></li>
+										<li><a href="appointment.php"><span>Appointments</span></a></li>
+										<li><a href="contact-us.php"><span>Contact Us</span></a></li>
 									</ul>
 								</div>
 							</div>
@@ -759,5 +759,5 @@
 <script src="js/custom.js"></script>
 </body>
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:32 GMT -->
+<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/contact-us.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:32 GMT -->
 </html>
