@@ -271,7 +271,7 @@
 				</ul>
 			</div>
 
-			<section class="content-inner-2 bg-light">
+			<!-- <section class="content-inner-2 bg-light">
 				<div class="container">
 					<div class="section-head style-3 m-b30 text-center wow fadeInUp" data-wow-delay="0.2s"
 						data-wow-duration="0.8s">
@@ -543,9 +543,9 @@
 						<a href="services.php" class="btn separator-badge fw-medium">View All Services</a>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
-			<section class="content-inner bg-light bg-bottom-half-white">
+			<!-- <section class="content-inner bg-light bg-bottom-half-white">
 				<div class="container">
 					<div class="section-head style-3 text-center m-b30 wow fadeInUp" data-wow-delay="0.2s"
 						data-wow-duration="0.8s">
@@ -570,7 +570,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 			<section class="content-inner bg-light">
 				<div class="container">
@@ -739,7 +739,7 @@
 				</div>
 			</section>
 
-			<section class="content-inner">
+			<!-- <section class="content-inner">
 				<div class="container">
 					<div class="row content-wrapper style-2 align-items-center">
 						<div class="col-xxl-7 col-lg-6 m-b30 align-self-center">
@@ -871,9 +871,9 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
-			<section class="content-inner bg-light gradient-bottom-light">
+			<!-- <section class="content-inner bg-light gradient-bottom-light">
 				<div class="container">
 					<div class="section-head style-3 text-center wow fadeInUp" data-wow-delay="0.2s"
 						data-wow-duration="0.8s">
@@ -1056,9 +1056,9 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
-			<section class="content-inner bg-light">
+			<!-- <section class="content-inner bg-light">
 				<div class="container">
 					<div class="row align-items-center pricingtable-content-wrapper">
 						<div class="col-xxl-3 col-lg-12 col-md-6 m-b30">
@@ -1147,7 +1147,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 			<div class="dz-marquee style-2 bg-light">
 				<ul class="marquee-list">
@@ -1157,15 +1157,15 @@
 						Accessories</li>
 					<li class="item text-primary wow bounceIn" data-wow-delay="0.3s" data-wow-duration="0.8s">Skincare
 					</li>
-					<li class="item text-outline wow bounceIn" data-wow-delay="0.4s" data-wow-duration="0.8s">Haircare
+					<li class="item text-outline wow bounceIn" data-wow-delay="0.4s" data-wow-duration="0.8s">DeepCleansing
 					</li>
-					<li class="item text-outline wow bounceIn" data-wow-delay="0.5s" data-wow-duration="0.8s">Bodycare
+					<li class="item text-outline wow bounceIn" data-wow-delay="0.5s" data-wow-duration="0.8s">Tested
 					</li>
 					<li class="item text-outline wow bounceIn" data-wow-delay="0.6s" data-wow-duration="0.8s">
-						Accessories</li>
+						 MakeupRemover</li>
 					<li class="item text-primary wow bounceIn" data-wow-delay="0.7s" data-wow-duration="0.8s">Skincare
 					</li>
-					<li class="item text-outline wow bounceIn" data-wow-delay="0.8s" data-wow-duration="0.8s">Haircare
+					<li class="item text-outline wow bounceIn" data-wow-delay="0.8s" data-wow-duration="0.8s"> Natural
 					</li>
 				</ul>
 			</div>
@@ -1264,7 +1264,7 @@
 				</div>
 			</section>
 
-			<section class="content-inner">
+			<!-- <section class="content-inner">
 				<div class="container">
 					<div class="row content-wrapper style-4 align-items-center">
 						<div class="col-xl-6 col-lg-5 m-b30">
@@ -1419,7 +1419,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 			<section class="content-inner pt-3 overflow-hidden">
 				<div thumbsSlider="" class="swiper dzThumbSlider">
@@ -1821,7 +1821,7 @@
 				</div>
 			</section>
 
-			<section class="content-inner bg-light">
+			<!-- <section class="content-inner bg-light">
 				<div class="container">
 					<div class="section-head style-1 m-b30 row align-items-end">
 						<div class="col-md-7 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.8s">
@@ -1965,7 +1965,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 
 			<section class="content-wrapper style-8 bg-light">
 				<div class="map-wrapper">
@@ -1978,7 +1978,7 @@
 						<div class="content-bx style-5 alert alert-dismissible fade show m-b60 position-absolute bottom-0"
 							role="alert">
 							<div class="content-logo">
-								<img src="images/logo.svg" alt="">
+								<img src="images/Komal_care-logo.jpeg" alt="logo">
 							</div>
 							<div class="content-text m-b20">
 								<h6 class="m-b5">Office Address: </h6>
