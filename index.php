@@ -43,9 +43,9 @@
 
 <body id="bg">
 	<div class="page-wraper">
-       <!-- HEADER START -->
-	<?php include('./include/heaader.php'); ?>
-		
+		<!-- HEADER START -->
+		<?php include('./include/heaader.php'); ?>
+
 
 		<main class="page-content">
 
@@ -56,16 +56,15 @@
 							<div class="col-md-6">
 								<div class="hero-content">
 									<h1 class="title wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.8s">
-										Skincare is Like A Workout For Your Skin</h1>
+										Pure Care in Every Swipe <br>Gentle on Skin, Tough on Dirt </h1>
 									<div class="content-bx style-2 secondary m-b40 wow fadeInUp" data-wow-delay="0.4s"
 										data-wow-duration="0.8s">
-										Experienced staff is dedicated to improving our patients' dental health and
-										enhancing
+										Experience the calming touch of French Lavender. Our 99% natural, 3-in-1 cleansing wipes are designed to soothe your face, hands, and body while keeping your skin hydrated and fresh.
 									</div>
 									<div class="d-flex">
-										<a href="appointment.php" class="btn btn-lg btn-icon btn-primary wow fadeInUp"
+										<a href="shop.php" class="btn btn-lg btn-icon btn-primary wow fadeInUp"
 											data-wow-delay="0.6s" data-wow-duration="0.8s">
-											Appointment
+											Try It Now
 											<span class="right-icon"><i class="feather icon-arrow-right"></i></span>
 										</a>
 										<div class="avatar-group m-l50 wow fadeInUp" data-wow-delay="0.8s"
@@ -197,15 +196,9 @@
 							<div class="info-content">
 								<div class="section-head style-1 m-b30 wow fadeInUp" data-wow-delay="0.2s"
 									data-wow-duration="0.8s">
-									<h2 class="title m-b15">Beyond Skin Deep Personalized Care for Your Unique Beauty
-										Journey description At ClinicMaster</h2>
-									<p>We believe healthy, radiant skin is achievable for everyone. We combine advanced
-										dermatology with innovative cosmetic solutions to address your unique skin
-										concerns. Our team of board-certified dermatologists and experienced
-										aestheticians create personalized treatment plans to achieve your desired
-										results, whether it's treating acne, restoring sun damage, or enhancing your
-										natural beauty. Explore our website to learn more about our services and
-										discover the confidence that comes with feeling your best in your own skin.</p>
+									<h2 class="title m-b15"> Pure, Gentle & Effective: The Only Care Your Skin Truly Deserves.</h2>
+									<p> At Komal Care, we believe beauty should be effortless. Our premium cleansing wipes are crafted with 99% natural ingredients and the calming essence of French Lavender to give you a refreshing experience anytime, anywhere.
+										Whether you're removing stubborn makeup, wiping away daily pollution, or just need a quick refresh for your hands and body, our hypoallergenic and alcohol-free formula ensures your skin stays hydrated and glowing without any irritation.</p>
 								</div>
 								<div class="d-flex align-items-center m-b15 wow fadeInUp" data-wow-delay="0.4s"
 									data-wow-duration="0.8s">
@@ -221,7 +214,8 @@
 												src="images/avatar/small/avatar4.webp" alt="">
 										</div>
 										<div class="clearfix">
-											<span>Talk to over 215 doctor</span>
+											<!-- <span>Trusted by 10,000+ Happy Users</span> -->
+											 <span>Dermatologically Tested for Sensitive Skin</span>
 										</div>
 									</div>
 									<a href="about-us.php" class="btn btn-square btn-xl btn-white btn-rounded">
@@ -258,21 +252,22 @@
 
 			<div class="dz-marquee style-1 bg-secondary overflow-hidden">
 				<ul class="marquee-list">
-					<li class="item wow bounceIn" data-wow-delay="0.1s" data-wow-duration="0.8s">Accessories</li>
-					<li class="item wow bounceIn" data-wow-delay="0.2s" data-wow-duration="0.8s">Haircare</li>
-					<li class="item wow bounceIn" data-wow-delay="0.3s" data-wow-duration="0.8s">Nailcare</li>
-					<li class="item wow bounceIn" data-wow-delay="0.4s" data-wow-duration="0.8s">Beautycare</li>
+					<li class="item wow bounceIn" data-wow-delay="0.1s" data-wow-duration="0.8s">Natural</li>
+					<li class="item wow bounceIn" data-wow-delay="0.2s" data-wow-duration="0.8s">Ingredients</li>
+					<li class="item wow bounceIn" data-wow-delay="0.3s" data-wow-duration="0.8s">Lavender</li>
+					<li class="item wow bounceIn" data-wow-delay="0.4s" data-wow-duration="0.8s">Friendly</li>
+					<li class="item wow bounceIn" data-wow-delay="0.4s" data-wow-duration="0.8s">Skincare</li>
 					<li class="item wow bounceIn" data-wow-delay="0.5s" data-wow-duration="0.8s">Bodycare</li>
-					<li class="item wow bounceIn" data-wow-delay="0.6s" data-wow-duration="0.8s">Skincare</li>
-					<li class="item wow bounceIn" data-wow-delay="0.7s" data-wow-duration="0.8s">Accessories</li>
-					<li class="item wow bounceIn" data-wow-delay="0.8s" data-wow-duration="0.8s">Haircare</li>
-					<li class="item wow bounceIn" data-wow-delay="0.9s" data-wow-duration="0.8s">nailcare</li>
-					<li class="item wow bounceIn" data-wow-delay="1.0s" data-wow-duration="0.8s">Beautycare</li>
-					<li class="item wow bounceIn" data-wow-delay="1.1s" data-wow-duration="0.8s">Accessories</li>
-					<li class="item wow bounceIn" data-wow-delay="1.2s" data-wow-duration="0.8s">Haircare</li>
-					<li class="item wow bounceIn" data-wow-delay="1.3s" data-wow-duration="0.8s">Nailcare</li>
-					<li class="item wow bounceIn" data-wow-delay="1.4s" data-wow-duration="0.8s">Beautycare</li>
-					<li class="item wow bounceIn" data-wow-delay="1.5s" data-wow-duration="0.8s">Bodycare</li>
+					<li class="item wow bounceIn" data-wow-delay="0.6s" data-wow-duration="0.8s">Beautycare</li>
+					<li class="item wow bounceIn" data-wow-delay="0.7s" data-wow-duration="0.8s">Hydrating</li>
+					<li class="item wow bounceIn" data-wow-delay="0.8s" data-wow-duration="0.8s">Tested</li>
+					<li class="item wow bounceIn" data-wow-delay="0.9s" data-wow-duration="0.8s">PureCare</li>
+					<li class="item wow bounceIn" data-wow-delay="1.0s" data-wow-duration="0.8s">DeepCleansing</li>
+					<li class="item wow bounceIn" data-wow-delay="1.1s" data-wow-duration="0.8s">TravelFriendly</li>
+					<li class="item wow bounceIn" data-wow-delay="1.2s" data-wow-duration="0.8s">MakeupRemover</li>
+					<li class="item wow bounceIn" data-wow-delay="1.3s" data-wow-duration="0.8s">Soft&Gentle</li>
+					<li class="item wow bounceIn" data-wow-delay="1.4s" data-wow-duration="0.8s">Face,Hands&Body</li>
+					<li class="item wow bounceIn" data-wow-delay="1.5s" data-wow-duration="0.8s">DailyFreshness</li>
 				</ul>
 			</div>
 
@@ -2193,13 +2188,13 @@
 
 		</main>
 
-	<?php include('./include/footer.php'); ?>
-		
+		<?php include('./include/footer.php'); ?>
+
 		<button class="scroltop" type="button"><i class="fas fa-arrow-up"></i></button>
 
 	</div>
 	<?php include('./include/script.php'); ?>
-	 
+
 </body>
 
 <!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:07 GMT -->
