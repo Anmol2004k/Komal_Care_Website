@@ -102,14 +102,14 @@
 						<div class="extra-nav">
 							<div class="extra-cell">
 								<ul class="header-right">
-									<li class="nav-item">
+									<!-- <li class="nav-item">
 										<a href="javascript:void(0);" class="nav-link cart-btn"
 											data-bs-toggle="offcanvas" data-bs-target="#sidebarCart"
 											aria-controls="sidebarCart">
 											<i class="feather icon-shopping-cart"></i>
 											<span class="badge badge-circle">5</span>
 										</a>
-									</li>
+									</li> -->
 									<li class="nav-item item-call">
 										<div class="info-widget style-3">
 											<div class="widget-media">
@@ -122,8 +122,8 @@
 										</div>
 									</li>
 									<li class="nav-item item-btn">
-										<a href="appointment.php" class="btn btn-primary btn-hover1">
-											Appointment
+										<a href="shop.php" class="btn btn-primary btn-hover1">
+											 Shop Now
 										</a>
 									</li>
 								</ul>
