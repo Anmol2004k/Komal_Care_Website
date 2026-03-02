@@ -689,7 +689,7 @@ var ClinicMasterCarousel = function(){
 			var ServiceSwiper2 = new Swiper('.service-swiper2', {
 				loop: true,
 				spaceBetween: 0,
-				slidesPerView: 1,
+				slidesPerView: 10,
 				// autoplay: {
 				// 	delay: 3000,
 				// },

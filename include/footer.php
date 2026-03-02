@@ -124,7 +124,7 @@
 							<div class="col-xl-3 col-md-12 col-sm-6 wow fadeInUp" data-wow-delay="0.2s"
 								data-wow-duration="0.8s">
 								<h3 class="title">Get in Touch with us</h3>
-								<p class="text">Lorem Ipsum is simply dummy</p>
+								<p class="text">We are Available for You` 24/7</p>
 							</div>
 							<div class="col-xl-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"
 								data-wow-duration="0.8s">
@@ -136,7 +136,7 @@
 									</div>
 									<div class="icon-content">
 										<h5 class="dz-title">Call Us</h5>
-										<p><a href="tel:+11234567890" class="text-body">+1 123 456 7890</a></p>
+										<p><a href="tel:+91- 9215178600" class="text-body">+91 92151 78600</a></p>
 									</div>
 								</div>
 							</div>
@@ -150,7 +150,7 @@
 									</div>
 									<div class="icon-content">
 										<h5 class="dz-title">Send us a Mail</h5>
-										<p><a href="mailto:info@example.com" class="text-body">info@example.com</a></p>
+										<p><a href="mailto:support@komalcare.in" class="text-body">support@komalcare.in</a></p>
 									</div>
 								</div>
 							</div>

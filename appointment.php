@@ -160,7 +160,7 @@
 															class="form-control dz-number" placeholder="Phone Number">
 													</div>
 												</div>
-												<div class="col-sm-6 m-b30">
+												<!-- <div class="col-sm-6 m-b30">
 													<div
 														class="floating-underline underline-1 input-light input-icon-left">
 														<span class="input-group-text text-primary"><i
@@ -216,11 +216,11 @@
 															id="checkBox6">
 														<label class="form-check-label" for="checkBox6">Pedicure</label>
 													</div>
-												</div>
+												</div> -->
 												<div class="col-sm-12 m-t10">
 													<button type="submit" name="submit" value="submit"
 														class="btn btn-lg btn-white w-100">
-														<i class="feather icon-calendar m-r5"></i> Book An appointment
+														<i class="feather icon-calendar m-r5"></i> Let,s Connect
 													</button>
 												</div>
 											</div>

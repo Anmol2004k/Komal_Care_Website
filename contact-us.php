@@ -123,8 +123,8 @@
 							<div class="icon-content">
 								<h5 class="dz-title fw-semibold">Call Us</h5>
 								<p>
-									<a href="tel:+01234567890" class="text-body">+0 123-456-7890</a><br>
-									<a href="tel:+09876543210" class="text-body">+0 987-654-3210</a>
+									<a href="tel:+919215178600" class="text-body">+91 92151 78600</a><br>
+									<!-- <a href="tel:+09876543210" class="text-body">+0 987-654-3210</a> -->
 								</p>
 							</div>
 						</div>
@@ -139,8 +139,8 @@
 							<div class="icon-content">
 								<h5 class="dz-title fw-semibold">Send us a Mail</h5>
 								<p>
-									<a href="mailto:info@example.com" class="text-body">info@example.com</a><br>
-									<a href="mailto:medical@example.com" class="text-body">medical@example.com</a>
+									<a href="mailto:support@komalcare.in" class="text-body">support@komalcare.in</a><br>
+									<!-- <a href="mailto:medical@example.com" class="text-body">medical@example.com</a> -->
 								</p>
 							</div>
 						</div>

@@ -112,13 +112,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 								<div class="product-tag">
 									<span class="badge ">Get 20% Off</span>
@@ -144,13 +144,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -173,13 +173,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -202,13 +202,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -231,13 +231,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -260,13 +260,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -289,13 +289,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -318,13 +318,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -347,13 +347,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -376,13 +376,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -405,13 +405,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">
@@ -434,13 +434,13 @@
 										<i class="fa-solid fa-eye d-md-none d-block"></i>
 										<span class="d-md-block d-none">Quick View</span>
 									</a>
-									<div class="btn meta-icon dz-wishicon">
+									<!-- <div class="btn meta-icon dz-wishicon">
 										<i class="icon feather icon-heart dz-heart"></i>
 										<i class="icon feather icon-heart-on dz-heart-fill"></i>
 									</div>
 									<div class="btn meta-icon dz-carticon">
 										<i class="feather icon-shopping-cart"></i>
-									</div>
+									</div> -->
 								</div>
 							</div>
 							<div class="dz-content">

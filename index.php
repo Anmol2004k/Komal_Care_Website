@@ -3,7 +3,7 @@
 
 <head>
 
-	<title>ClinicMaster - SkinCare Bootstrap Template</title>
+	<title>Komal care Wipes for skin</title>
 
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -96,7 +96,7 @@
 								<div class="hero-thumbnail" data-bottom-top="transform: translateY(-50px)"
 									data-top-bottom="transform: translateY(50px)">
 									<img class="thumbnail" src="images/hero-banner/img1.png" alt="">
-									<div class="item5" data-bottom-top="transform: translateY(-50px)"
+									<!-- <div class="item5" data-bottom-top="transform: translateY(-50px)"
 										data-top-bottom="transform: translateY(50px)">
 										<a class="popup-youtube" href="https://www.youtube.com/watch?v=o8OgzQdA70c">
 											<div class="word-rotate-box">
@@ -104,7 +104,7 @@
 												<i class="fa-solid fa-play"></i>
 											</div>
 										</a>
-									</div>
+									</div> -->
 								</div>
 							</div>
 						</div>
@@ -181,7 +181,7 @@
 											fill="#0A3366" />
 									</svg>
 								</div>
-								<div class="item3" data-bottom-top="transform: translateY(-30px)"
+								<!-- <div class="item3" data-bottom-top="transform: translateY(-30px)"
 									data-top-bottom="transform: translateY(30px)">
 									<a class="popup-youtube" href="https://www.youtube.com/watch?v=o8OgzQdA70c">
 										<div class="word-rotate-box">
@@ -189,7 +189,7 @@
 											<i class="fa-solid fa-play"></i>
 										</div>
 									</a>
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<div class="col-xl-7 col-lg-6 m-b30 position-relative">

@@ -193,7 +193,7 @@
 	</div>
 </section>
 		
-		<section class="content-inner bg-light">
+	<!-- <section class="content-inner bg-light">
 	<div class="container">	
 		<div class="row align-items-center pricingtable-content-wrapper">
 			<div class="col-xxl-3 col-lg-12 col-md-6 m-b30">
@@ -272,7 +272,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 		
 		<section class="clearfix bg-light">
 	<div class="container">
@@ -292,7 +292,7 @@
 	</div>
 </section>
 		
-		<section class="content-inner-1 bg-light overflow-hidden">
+		<!-- <section class="content-inner-1 bg-light overflow-hidden">
 			<div class="container">
 				<div class="section-head style-1 row align-items-center mb-0">
 					<div class="col-sm-7 m-b30 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.8s">
@@ -344,7 +344,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		
 	</main>
 	

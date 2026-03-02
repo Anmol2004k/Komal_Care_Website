@@ -123,7 +123,7 @@
 									</div>
 									<div class="widget-content">
 										<h6 class="title text-primary">Contact us</h6>
-										<a href="tel:+11234567890" class="text-secondary">+1 123 456 7890</a>
+										<a href="tel:+91- 9215178600" class="text-secondary">+91 92151 78600</a>
 									</div>
 								</div>
 							</li>
