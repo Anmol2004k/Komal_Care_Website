@@ -19,10 +19,10 @@
 									<a href="contact-us.php" class="btn btn-lg btn-outline-white btn-hover1">
 										Contact Us
 									</a>
-									<a href="appointment.php"
+									<!-- <a href="appointment.php"
 										class="btn btn-lg btn-white text-primary btn-hover1 m-l20">
 										Appointment
-									</a>
+									</a> -->
 								</div>
 							</div>
 						</div>
@@ -180,11 +180,11 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-12 text-start">
 								<p class="copyright-text">© <span class="current-year">2024</span> <a
-										href="https://themeforest.net/user/dexignzone" target="_blank">Quantam minds</a>
+										href="https://www.quantamminds.com/" target="_blank">Quantam minds</a>
 									Theme. All Rights Reserved.</p>
 							</div>
 							<div class="col-lg-6 col-md-12 text-end">
-								<img src="images/card.webp" alt="">
+								<!-- <img src="images/card.webp" alt=""> -->
 							</div>
 						</div>
 					</div>

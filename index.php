@@ -215,7 +215,7 @@
 										</div>
 										<div class="clearfix">
 											<!-- <span>Trusted by 10,000+ Happy Users</span> -->
-											 <span>Dermatologically Tested for Sensitive Skin</span>
+											<span>Dermatologically Tested for Sensitive Skin</span>
 										</div>
 									</div>
 									<a href="about-us.php" class="btn btn-square btn-xl btn-white btn-rounded">
@@ -614,17 +614,17 @@
 												<i class="fa-solid fa-eye d-md-none d-block"></i>
 												<span class="d-md-block d-none">Quick View</span>
 											</a>
-											<div class="btn meta-icon dz-wishicon">
+											<!-- <div class="btn meta-icon dz-wishicon">
 												<i class="icon feather icon-heart dz-heart"></i>
 												<i class="icon feather icon-heart-on dz-heart-fill"></i>
 											</div>
 											<div class="btn meta-icon dz-carticon">
 												<i class="feather icon-shopping-cart"></i>
-											</div>
+											</div> -->
 										</div>
-										<div class="product-tag">
+										<!-- <div class="product-tag">
 											<span class="badge ">Get 20% Off</span>
-										</div>
+										</div> -->
 									</div>
 									<div class="dz-content">
 										<div class="inner-content">
@@ -649,13 +649,13 @@
 												<i class="fa-solid fa-eye d-md-none d-block"></i>
 												<span class="d-md-block d-none">Quick View</span>
 											</a>
-											<div class="btn meta-icon dz-wishicon">
+											<!-- <div class="btn meta-icon dz-wishicon">
 												<i class="icon feather icon-heart dz-heart"></i>
 												<i class="icon feather icon-heart-on dz-heart-fill"></i>
 											</div>
 											<div class="btn meta-icon dz-carticon">
 												<i class="feather icon-shopping-cart"></i>
-											</div>
+											</div> -->
 										</div>
 									</div>
 									<div class="dz-content">
@@ -681,13 +681,13 @@
 												<i class="fa-solid fa-eye d-md-none d-block"></i>
 												<span class="d-md-block d-none">Quick View</span>
 											</a>
-											<div class="btn meta-icon dz-wishicon">
+											<!-- <div class="btn meta-icon dz-wishicon">
 												<i class="icon feather icon-heart dz-heart"></i>
 												<i class="icon feather icon-heart-on dz-heart-fill"></i>
 											</div>
 											<div class="btn meta-icon dz-carticon">
 												<i class="feather icon-shopping-cart"></i>
-											</div>
+											</div> -->
 										</div>
 									</div>
 									<div class="dz-content">
@@ -713,13 +713,13 @@
 												<i class="fa-solid fa-eye d-md-none d-block"></i>
 												<span class="d-md-block d-none">Quick View</span>
 											</a>
-											<div class="btn meta-icon dz-wishicon">
+											<!-- <div class="btn meta-icon dz-wishicon">
 												<i class="icon feather icon-heart dz-heart"></i>
 												<i class="icon feather icon-heart-on dz-heart-fill"></i>
 											</div>
 											<div class="btn meta-icon dz-carticon">
 												<i class="feather icon-shopping-cart"></i>
-											</div>
+											</div> -->
 										</div>
 									</div>
 									<div class="dz-content">
@@ -1162,7 +1162,7 @@
 					<li class="item text-outline wow bounceIn" data-wow-delay="0.5s" data-wow-duration="0.8s">Tested
 					</li>
 					<li class="item text-outline wow bounceIn" data-wow-delay="0.6s" data-wow-duration="0.8s">
-						 MakeupRemover</li>
+						MakeupRemover</li>
 					<li class="item text-primary wow bounceIn" data-wow-delay="0.7s" data-wow-duration="0.8s">Skincare
 					</li>
 					<li class="item text-outline wow bounceIn" data-wow-delay="0.8s" data-wow-duration="0.8s"> Natural
@@ -1177,38 +1177,35 @@
 							<div class="content-info">
 								<div class="section-head style-2 m-b30">
 									<div class="sub-title wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.8s">
-										Best Dermatologist</div>
+										Dermatologist Tested</div>
 									<h2 class="title wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">About
-										Dr. Nashid Martines</h2>
+										Pure Protection. Expertly Crafted.</h2>
 									<p class="fw-normal wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="0.8s">
-										<strong class="text-secondary fw-semibold">Dr. Nashid Martines</strong> There
-										are many variations of passages of Lorem Ipsum available, but the majority have
-										suffered alteration in some form, by injected humour, or randomised words which
-										don't look even slightly believable.
+										<strong class="text-secondary fw-semibold">Komal Care Product's</strong> At Komal Care, we understand that your skin deserves nothing but the gentlest touch. Our wipes are more than just a cleaning essential; they are a blend of 99% pure water and natural extracts, ensuring that every wipe feels like a mother's touch.
 									</p>
 								</div>
 								<h3 class="text-primary title-dashed-separator wow fadeInUp" data-wow-delay="0.8s"
-									data-wow-duration="0.8s">About Skills</h3>
+									data-wow-duration="0.8s">About Quality</h3>
 								<ul class="list-check text-secondary fw-medium grid-2 m-b35 wow fadeInUp"
 									data-wow-delay="1.0s" data-wow-duration="0.8s">
-									<li>Radiant Skin Dermatology</li>
-									<li>Flawless Dermatology</li>
-									<li>Luminous Dermatology</li>
-									<li>Laser Resurfacing</li>
-									<li>Refined Skin Dermatology</li>
-									<li>Anti Aging</li>
+									<li> 99% Pure Water Base</li>
+									<li> pH Balanced Formula</li>
+									<li> Alcohol & Paraben Free</li>
+									<li> Thick & Extra Soft</li>
+									<li> Infused with Aloe Vera</li>
+									<li> Travel-Friendly Pack</li>
 								</ul>
 								<div class="row align-items-center g-4 wow fadeInUp" data-wow-delay="1.2s"
 									data-wow-duration="0.8s">
 									<div class="col-sm-6 d-flex">
 										<div class="text-center">
 											<img src="images/sign.webp" alt="">
-											<span class="font-14 d-block">Dr. Nashid Martines</span>
+											<span class="font-14 d-block">Komal Care Product's</span>
 										</div>
 									</div>
 									<div class="col-sm-6">
 										<a href="appointment.php" class="btn btn-lg btn-icon btn-primary">
-											Appointment
+											 Order Now
 											<span class="right-icon"><i class="feather icon-arrow-right"></i></span>
 										</a>
 									</div>
@@ -1241,8 +1238,8 @@
 								<div class="item2" data-bottom-top="transform: translateY(-30px)"
 									data-top-bottom="transform: translateY(30px)">
 									<div class="info-widget style-2 move-3">
-										<span class="content-text text-primary"><span class="counter">20</span>+</span>
-										<h3 class="title m-b0">Years <br> Experienced</h3>
+										<span class="content-text text-primary"><span class="counter">100</span>%</span>
+										<h3 class="title m-b0"><br>Organic</h3>
 									</div>
 								</div>
 								<div class="item3" data-bottom-top="transform: translateY(-30px)"
@@ -1252,9 +1249,9 @@
 											<img src="images/logo/logo1.png" alt="">
 										</div>
 										<div class="dz-content">
-											<h3 class="title">ClinicMaster 2024</h3>
+											<h3 class="title">Komal Care 2026</h3>
 											<p>Quality and Accreditation Institute</p>
-											<a href="javascript:void(0);" class="btn-link">Best Dermatologists</a>
+											<a href="javascript:void(0);" class="btn-link">Dermatologist Tested</a>
 										</div>
 									</div>
 								</div>
@@ -1459,9 +1456,8 @@
 				<div class="container">
 					<div class="section-head style-1 text-center wow fadeInUp position-relative z-2"
 						data-wow-delay="0.2s" data-wow-duration="0.8s">
-						<h2 class="title m-b10">What our patient say</h2>
-						<p>It is a long established fact that a reader will be distracted by the readable content of a
-							page when looking at its layout.</p>
+						<h2 class="title m-b10">What Our Happy Families Say</h2>
+						<p>"I've tried many brands, but Komal Care Wipes are the only ones that don't cause rashes on my baby's skin. They are thick, moist, and smell amazing. Now I use them for my makeup removal too!"</p>
 					</div>
 					<div class="swiper dzThumbPreview wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.8s">
 						<div class="swiper-wrapper">
@@ -1478,8 +1474,8 @@
 										</div>
 										<div class="testimonial-info">
 											<div class="clearfix">
-												<h5 class="testimonial-name">Olivia Davis</h5>
-												<span class="testimonial-position">Postgraduate Student</span>
+												<h5 class="testimonial-name">Priya Sharma</h5>
+												<span class="testimonial-position">Lifestyle Influencer</span>
 											</div>
 										</div>
 									</div>
@@ -1494,7 +1490,7 @@
 													<li><i class="fa fa-star"></i></li>
 													<li><i class="fa fa-star"></i></li>
 												</ul>
-												<h3 class="title m-b0">Best Treatment </h3>
+												<h3 class="title m-b0">Badge Text: Best for Sensitive Skin </h3>
 											</div>
 										</div>
 									</div>
@@ -2008,7 +2004,7 @@
 								<div class="form-wrapper style-1 bg-secondary">
 									<div class="form-body">
 										<div class="title-head">
-											<h2 class="form-title m-b20">Book Your Appointment</h2>
+											<h2 class="form-title m-b20">Let's Connect</h2>
 										</div>
 										<form
 											action="https://clinicmaster.dexignzone.com/skincare/xhtml/script/contact_smtp.php"
@@ -2044,7 +2040,7 @@
 															class="form-control dz-number" placeholder="Phone Number">
 													</div>
 												</div>
-												<div class="col-sm-6 m-b30">
+												<!-- <div class="col-sm-6 m-b30">
 													<div
 														class="floating-underline underline-1 input-light input-icon-left">
 														<span class="input-group-text text-primary"><i
@@ -2061,8 +2057,8 @@
 														<input name="dzOther[dzTime]" required type="text"
 															class="form-control" id="timePickerOnly" placeholder="Time">
 													</div>
-												</div>
-												<div class="col-sm-6">
+												</div> -->
+												<!-- <div class="col-sm-6">
 													<div class="form-check2 m-b5">
 														<input class="form-check-input" type="checkbox" value=""
 															id="checkBox1">
@@ -2080,9 +2076,9 @@
 															id="checkBox3">
 														<label class="form-check-label" for="checkBox3">Hair Fall
 															Treatments</label>
-													</div>
-												</div>
-												<div class="col-sm-6 m-b30">
+													</div> 
+												</div> -->
+												<!-- <div class="col-sm-6 m-b30">
 													<div class="form-check2 m-b5">
 														<input class="form-check-input" type="checkbox" value=""
 															id="checkBox4">
@@ -2100,11 +2096,11 @@
 															id="checkBox6">
 														<label class="form-check-label" for="checkBox6">Pedicure</label>
 													</div>
-												</div>
+												</div> -->
 												<div class="col-sm-12 m-t10">
 													<button type="submit" name="submit" value="submit"
 														class="btn btn-lg btn-white w-100">
-														<i class="feather icon-calendar m-r5"></i> Book An appointment
+														<i class="feather icon-calendar m-r5"></i> Let,s Connect
 													</button>
 												</div>
 											</div>
@@ -2117,7 +2113,7 @@
 				</div>
 			</section>
 
-			<div class="content-inner-4">
+			<!-- <div class="content-inner-4">
 				<div class="container">
 					<div class="swiper client-swiper">
 						<div class="swiper-wrapper">
@@ -2184,7 +2180,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 
 		</main>
 
@@ -2197,6 +2193,5 @@
 
 </body>
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:07 GMT -->
 
 </html>
