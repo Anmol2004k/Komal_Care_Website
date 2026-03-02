@@ -1,54 +1,44 @@
 <!DOCTYPE html>
 <html lang="en" data-theme-color="skin-3">
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/appointment.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:13 GMT -->
 
 <head>
 
-	<!-- Title -->
-	<title>ClinicMaster - SkinCare Bootstrap Template</title>
+	<title>Book an Appointment | Komal Care Skincare Consultation</title>
 
-	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="DexignZone">
+	<meta name="author" content="Anmol Kumar">
 	<meta name="robots" content="index, follow">
 	<meta name="format-detection" content="telephone=no">
 
-	<meta name="keywords"
-		content="skincare HTML template, medical Bootstrap template, skincare clinic website, responsive medical template, skincare services design, Bootstrap medical HTML template, ClinicMaster skincare design, modern medical template, wellness website template, skincare clinic online presence">
-	<meta name="description"
-		content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
+	<meta name="keywords" content="Komal Care appointment, skincare consultation, book wipes bulk order, skin hygiene advice, Komal Care expert talk, hygiene consultation India">
 
-	<meta property="og:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta property="og:description"
-		content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta property="og:image" content="social-image.png">
+	<meta name="description" content="Schedule your appointment with Komal Care experts. Get professional advice on skincare, hygiene products, and bulk order inquiries for our premium wipes collection.">
 
-	<!-- TWITTER META -->
-	<meta name="twitter:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta name="twitter:description"
-		content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta name="twitter:image" content="social-image.png">
+	<meta property="og:title" content="Book Your Slot with Komal Care - Expert Skin Care">
+	<meta property="og:description" content="Need expert advice or want to discuss a business partnership? Book an appointment with the Komal Care team today.">
+	<meta property="og:image" content="https://komalcare.in/assets/images/appointment-og-banner.jpg">
+	<meta property="og:url" content="https://komalcare.in/appointment.php">
+
+	<meta name="twitter:title" content="Komal Care Appointment | Professional Skincare">
+	<meta name="twitter:description" content="Book a session for skincare guidance or product inquiries. Easy and fast appointment booking with Komal Care.">
+	<meta name="twitter:image" content="https://komalcare.in/assets/images/appointment-og-banner.jpg">
 	<meta name="twitter:card" content="summary_large_image">
 
-	<!-- CANONICAL URL -->
-	<link rel="canonical" href="https://clinicmaster.dexignzone.com/xhtml/appointment.php">
+	<link rel="canonical" href="https://komalcare.in/appointment.php">
 
-	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<?php include('./include/linls.php'); ?>
-	 
+
 </head>
 
 <body id="bg">
 	<div class="page-wraper">
-<!-- HEADER START -->
-	<?php include('./include/heaader.php'); ?>
-	
+		<!-- HEADER START -->
+		<?php include('./include/heaader.php'); ?>
+
 		<main class="page-content">
 
 			<div class="dz-bnr-inr style-1 overlay-black-middle dz-bnr-inr-md"
@@ -372,16 +362,15 @@
 
 		</main>
 
-		 	<!-- Footer -->
-	<?php include('./include/footer.php'); ?>
+		<!-- Footer -->
+		<?php include('./include/footer.php'); ?>
 
 		<button class="scroltop" type="button"><i class="fas fa-arrow-up"></i></button>
 
 	</div>
 	<?php include('./include/script.php'); ?>
-	 
+
 </body>
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/appointment.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:15 GMT -->
 
 </html>

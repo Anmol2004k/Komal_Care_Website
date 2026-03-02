@@ -1,34 +1,34 @@
 <!DOCTYPE html>
 <html lang="en" data-theme-color="skin-3">
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/contact-us-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:33 GMT -->
-
 <head>
 
-	<!-- Title -->
-	<title>Komal Care - Contact Us</title>
+	<title>Contact Us | Get in Touch with Komal Care Wipes</title>
 
-	<!-- Meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="DexignZone">
+	<meta name="author" content="Anmol Kumar">
 	<meta name="robots" content="index, follow">
 	<meta name="format-detection" content="telephone=no">
 
-	<meta name="keywords" content="skincare HTML template, medical Bootstrap template, skincare clinic website, responsive medical template, skincare services design, Bootstrap medical HTML template, ClinicMaster skincare design, modern medical template, wellness website template, skincare clinic online presence">
-	<meta name="description" content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
+	<meta name="keywords" content="Komal Care contact, customer support wipes, baby wipes wholesale Haryana, skincare inquiry, Komal Care office address, contact Komal Care team, premium wipes India">
 
-	<meta property="og:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta property="og:description" content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta property="og:image" content="social-image.png">
+	<meta name="description" content="Have questions or need assistance? Reach out to the Komal Care team today for product inquiries, bulk orders, or customer support regarding our premium skincare wipes.">
 
-	<!-- TWITTER META -->
-	<meta name="twitter:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta name="twitter:description" content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta name="twitter:image" content="social-image.png">
+	<meta property="og:title" content="Contact Komal Care - We are Here to Help">
+	<meta property="og:description" content="Reach out to us via email, phone, or visit our office. We value your feedback and inquiries about Komal Care products.">
+	<meta property="og:image" content="https://komalcare.in/assets/images/contact-og-banner.jpg">
+	<meta property="og:url" content="https://komalcare.in/contact-us.php">
+	<meta property="og:type" content="website">
+
 	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Contact Us | Komal Care Support">
+	<meta name="twitter:description" content="Get in touch for support, feedback, or business inquiries regarding Komal Care's premium range of wipes.">
+	<meta name="twitter:image" content="https://komalcare.in/assets/images/contact-og-banner.jpg">
+
+	<link rel="canonical" href="https://komalcare.in/contact-us.php">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php include('./include/linls.php'); ?>
 
 </head>
@@ -320,6 +320,5 @@
 
 </body>
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/contact-us-2.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:33 GMT -->
 
 </html>

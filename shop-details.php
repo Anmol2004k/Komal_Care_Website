@@ -1,40 +1,34 @@
 <!DOCTYPE html>
 <html lang="en" data-theme-color="skin-3">
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/shop-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:24 GMT -->
-<head>
+ <head>
 
 	<!-- Title -->
-	<title>Komal Care - Shop Details</title>
-	
+	 <title>Komal Care Soft & Gentle Wet Wipes - Product Details</title>
+ 	
 	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="Quantum minds">
-	<meta name="robots" content="index, follow">
-	<meta name="format-detection" content="telephone=no">
-	
-	<meta name="keywords" content="skincare HTML template, medical Bootstrap template, skincare clinic website, responsive medical template, skincare services design, Bootstrap medical HTML template, ClinicMaster skincare design, modern medical template, wellness website template, skincare clinic online presence">
-	<meta name="description" content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	
-	<meta property="og:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta property="og:description" content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta property="og:image" content="social-image.png">
-	
+	 <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Anmol Kumar">
+    <meta name="robots" content="index, follow">
+    <meta name="format-detection" content="telephone=no">
+
+	<meta name="keywords" content="Komal Care wipes details, alcohol free wet wipes, pH balanced baby wipes, moisturizing skin wipes, Komal Care product specifications, buy wipes online India">
+    <meta name="description" content="Discover the premium quality of Komal Care Wipes. Infused with skin-loving ingredients, our wipes are pH balanced, alcohol-free, and perfect for sensitive skin. Experience deep cleansing with a touch of care.">
+
+	 <meta property="og:title" content="Komal Care Wipes - Deep Cleansing & Extra Soft">
+    <meta property="og:description" content="Check out the details of our premium wipes. Designed for comfort and hygiene, Komal Care brings you the best in skincare.">
+    <meta property="og:image" content="https://komalcare.in/assets/images/product-detail-share.jpg">
+    <meta property="og:url" content="https://komalcare.in/shop-details.php">
 	<!-- TWITTER META -->
-	<meta name="twitter:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta name="twitter:description" content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta name="twitter:image" content="social-image.png">
-	<meta name="twitter:card" content="summary_large_image">
-	
+	 <meta name="twitter:title" content="Komal Care | Premium Skin-Friendly Wipes">
+    <meta name="twitter:description" content="Soft, durable, and moisturizing wipes for every skin type. See why Komal Care is the preferred choice.">
+    <meta name="twitter:image" content="https://komalcare.in/assets/images/product-detail-share.jpg">
+    <meta name="twitter:card" content="summary_large_image">
 	<!-- CANONICAL URL -->
-	<link rel="canonical" href="https://clinicmaster.dexignzone.com/xhtml/shop-details.php">
-	
+     <link rel="canonical" href="https://komalcare.in/shop-details.php">	
 	<!-- MOBILE SPECIFIC -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+ <meta name="viewport" content="width=device-width, initial-scale=1">	
 	<?php include('./include/linls.php'); ?>
 	 
 
@@ -427,5 +421,4 @@
  
 </body>
 
-<!-- Mirrored from clinicmaster.dexignzone.com/skincare/xhtml/shop-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Feb 2026 08:01:26 GMT -->
-</html>
+ </html>

@@ -3,39 +3,33 @@
 
 <head>
 
-	<title>Komal care Wipes for skin</title>
+ <title>Komal Care | Premium Skin-Friendly Wipes & Skincare Solutions</title>
+ 
+	 <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Anmol Kumar">
+    <meta name="robots" content="index, follow">
+    <meta name="format-detection" content="telephone=no">
 
-	<!-- Meta -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="DexignZone">
-	<meta name="robots" content="index, follow">
-	<meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="Komal Care, premium wet wipes, baby wipes India, facial cleansing wipes, alcohol-free wipes, skin care products, soft touch wipes, hygiene wipes, Komal Care Haryana">
+    
+    <meta name="description" content="Experience the gentle touch of Komal Care. We provide premium, pH-balanced, and alcohol-free wipes designed for delicate skin. Perfect for daily hygiene, baby care, and skincare needs.">
 
-	<meta name="keywords"
-		content="skincare HTML template, medical Bootstrap template, skincare clinic website, responsive medical template, skincare services design, Bootstrap medical HTML template, ClinicMaster skincare design, modern medical template, wellness website template, skincare clinic online presence">
-	<meta name="description"
-		content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
+    <meta property="og:title" content="Komal Care - Quality Wipes for Your Gentle Skin">
+    <meta property="og:description" content="Discover premium skincare and hygiene wipes from Komal Care. Soft, moisturizing, and safe for all skin types. Shop our collection today.">
+    <meta property="og:image" content="https://komalcare.in/assets/images/og-home-banner.jpg">
+    <meta property="og:url" content="https://komalcare.in/index.php">
+    <meta property="og:type" content="website">
 
-	<meta property="og:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta property="og:description"
-		content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta property="og:image" content="social-image.png">
+    <meta name="twitter:title" content="Komal Care | Premium Skincare Wipes">
+    <meta name="twitter:description" content="Premium quality wipes designed for the ultimate skin comfort. Alcohol-free and pH balanced for daily use.">
+    <meta name="twitter:image" content="https://komalcare.in/assets/images/og-home-banner.jpg">
+    <meta name="twitter:card" content="summary_large_image">
 
-	<!-- TWITTER META -->
-	<meta name="twitter:title" content="ClinicMaster - SkinCare Bootstrap Template
-">
-	<meta name="twitter:description"
-		content="ClinicMaster is a stylish Bootstrap HTML template designed for skincare and medical professionals. Ideal for showcasing skincare treatments, medical services, and wellness solutions with a modern, responsive design that enhances user experience and engagement.">
-	<meta name="twitter:image" content="social-image.png">
-	<meta name="twitter:card" content="summary_large_image">
+    <link rel="canonical" href="https://komalcare.in/index.php">
 
-	<!-- CANONICAL URL -->
-	<link rel="canonical" href="https://clinicmaster.dexignzone.com/xhtml/index.php">
-
-	<!-- MOBILE SPECIFIC -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	 
 
 	<?php include('./include/linls.php'); ?>
 
