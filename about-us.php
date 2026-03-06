@@ -1,42 +1,38 @@
 <!DOCTYPE html>
 <html lang="en" data-theme-color="skin-3">
 
+
+
 <head>
-	Yeh raha aapke About Us (Version 1) page ke liye optimized meta tags. Is section mein humne "Komal Care" ki reliability aur premium quality par focus kiya hai.
+	<title>About Us | Komal Care - Leading the Way in Gentle Skincare</title>
 
-	Optimized About Us Head Section
-	HTML
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="author" content="Anmol Kumar">
+	<meta name="robots" content="index, follow">
+	<meta name="format-detection" content="telephone=no">
 
-	<head>
-		<title>About Us | Komal Care - Leading the Way in Gentle Skincare</title>
+	<meta name="keywords" content="About Komal Care, premium skincare wipes, safe hygiene products India, alcohol-free wipes manufacturer, Komal Care history, gentle skin solutions, hygiene standards">
 
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="author" content="Anmol Kumar">
-		<meta name="robots" content="index, follow">
-		<meta name="format-detection" content="telephone=no">
+	<meta name="description" content="Discover the passion behind Komal Care. We are dedicated to providing high-quality, pH-balanced, and skin-friendly wipes for daily hygiene. Learn about our commitment to pure and gentle care.">
 
-		<meta name="keywords" content="About Komal Care, premium skincare wipes, safe hygiene products India, alcohol-free wipes manufacturer, Komal Care history, gentle skin solutions, hygiene standards">
+	<meta property="og:title" content="About Komal Care - Your Partner in Skin Hygiene">
+	<meta property="og:description" content="Explore our mission to deliver premium quality wipes and skincare solutions. Pure, gentle, and made with love for your skin.">
+	<meta property="og:image" content="https://komalcare.in/assets/images/about-og-image.jpg">
+	<meta property="og:url" content="https://komalcare.in/about-us.php">
 
-		<meta name="description" content="Discover the passion behind Komal Care. We are dedicated to providing high-quality, pH-balanced, and skin-friendly wipes for daily hygiene. Learn about our commitment to pure and gentle care.">
+	<meta name="twitter:title" content="Learn About Komal Care | Quality Skincare">
+	<meta name="twitter:description" content="Dedicated to excellence in hygiene. Discover how Komal Care is redefining skin-friendly wipes.">
+	<meta name="twitter:image" content="https://komalcare.in/assets/images/about-og-image.jpg">
+	<meta name="twitter:card" content="summary_large_image">
 
-		<meta property="og:title" content="About Komal Care - Your Partner in Skin Hygiene">
-		<meta property="og:description" content="Explore our mission to deliver premium quality wipes and skincare solutions. Pure, gentle, and made with love for your skin.">
-		<meta property="og:image" content="https://komalcare.in/assets/images/about-og-image.jpg">
-		<meta property="og:url" content="https://komalcare.in/about-us.php">
+	<link rel="canonical" href="https://komalcare.in/about-us.php">
 
-		<meta name="twitter:title" content="Learn About Komal Care | Quality Skincare">
-		<meta name="twitter:description" content="Dedicated to excellence in hygiene. Discover how Komal Care is redefining skin-friendly wipes.">
-		<meta name="twitter:image" content="https://komalcare.in/assets/images/about-og-image.jpg">
-		<meta name="twitter:card" content="summary_large_image">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<link rel="canonical" href="https://komalcare.in/about-us.php">
+	<?php include('./include/linls.php'); ?>
 
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<?php include('./include/linls.php'); ?>
-
-	</head>
+</head>
 
 <body id="bg">
 	<div class="page-wraper">

@@ -60,16 +60,16 @@
 						</li>
 
 						<li class="sub-menu-down">
-							<a href="about-us-2.php"><span> About Us</span> <i class="fas fa-chevron-down tabindex"></i></a>
+							<a href="about-us.php"><span> About Us</span> <i class="fas fa-chevron-down tabindex"></i></a>
 							<ul class="sub-menu">
-								<li><a href="about-us-2.php">About Us</a></li>
+								<li><a href="about-us.php">About Us</a></li>
 							</ul>
 						</li>
 						<li class="sub-menu-down">
 							<a href="javascript:void(0);"><span>Pages</span> <i
 									class="fas fa-chevron-down tabindex"></i></a>
 							<ul class="sub-menu">
-								<li><a href="about-us-2.php">About Us </a></li>
+								<li><a href="about-us-2.php">About Us-2 </a></li>
 								<li><a href="shop-details.php">Shop Details</a></li>
 								<li><a href="appointment.php">Appointment</a></li>
 								<li><a href="faqs.php">Faqs</a></li>
